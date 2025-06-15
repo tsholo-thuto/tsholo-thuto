@@ -5,7 +5,7 @@ I'm a passionate front-end developer in the making! I’m currently learning how
 - 🌐 HTML
 
 - 🎨 CSS
-S
+
 - ⚙️ JavaScript
 
 ---
