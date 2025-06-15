@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tsholofelo Kgaje
+# 👋 Hi, I’m Tsholofelo Thuto Kgaje
 
 I'm a passionate front-end developer in the making! I’m currently learning how to bring websites to life using:
 
